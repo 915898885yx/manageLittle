@@ -1,0 +1,20 @@
+.inlineBlock{
+  display: inline-block;
+}
+.baseLine{
+  text-align:center;margin:10px auto;
+}
+.baseLine label{
+  text-align: right;
+}
+.el-table thead{
+  font-weight: bold !important;
+  color:#333 !important;
+}
+.btnIcon{
+  font-size: 12px;
+}
+.el-dialog__header{
+  border-bottom: 1px solid #eee;
+  font-weight: bold;
+}
